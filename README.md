@@ -32,3 +32,5 @@ pip install watchdog
 ```
 pip install python-telegram-bot watchdog
 ```
+> [!IMPORTANT]
+> Формал файла `pyw` сделан для того что бы при запуске бота не открвалась консоль, нмли вам нужна консоль поменяйте формат фалйа `pyw` на `py`
